@@ -1,0 +1,6 @@
+{
+  "name": "IronPulse",
+  "description": "Comprehensive AI personal trainer, progressive workout tracker, smart nutrition planner, and body transformation app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
